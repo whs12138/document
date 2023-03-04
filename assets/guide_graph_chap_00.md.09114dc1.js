@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t}from"./app.8840feec.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/graph/chap_00.md"}'),r={name:"guide/graph/chap_00.md"};function c(o,p,s,n,_,d){return a(),t("div")}const m=e(r,[["render",c]]);export{h as __pageData,m as default};
